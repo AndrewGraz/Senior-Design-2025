@@ -1,2 +1,2 @@
 # Senior-Design-Wedding-Planning
-# we can re lable this later 
+- we can re-label this later 
